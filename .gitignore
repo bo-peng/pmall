@@ -1,1 +1,3 @@
 pelican-bootstrap3/
+*.pyc
+*~
